@@ -1,0 +1,18 @@
+{
+  "token": "MTUzNTY0NTEyMzMyMzM2MzMzOA.GFQWV1.UqaogewSq6rRO0TR9vpidtY5qOdirv2oduVEv4",
+  "prefix": "d!",
+  "ownerID": ["1010857125045620766"],
+  "color": "#HEX_COLOR",
+  "nodes": [
+    {
+      "name": "Main",
+      "url": "lavalink.jirayu.net:443",
+      "auth": "youshallnotpass",
+      "secure": true
+    }
+  ],
+  "spotify": {
+    "clientId": "72f4e507e7df46058d905979333ef751",
+    "clientSecret": "37513dab2129459a9cf026ea5851e2dc"
+  }
+}
